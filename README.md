@@ -1,4 +1,4 @@
-### Reddit Joke Bot
+# Reddit Joke Bot
 This Reddit bot responds to comments on selected subreddits with jokes retrieved from a database. The bot looks for certain phrases in comments and replies with a joke that fits the context.
 
 ### Installation
